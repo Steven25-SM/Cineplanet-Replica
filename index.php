@@ -169,7 +169,7 @@ if (isset($_SESSION['usuario'])) {
     <div class="row row-cols-1 row-cols-md-3 g-4">
         <div class="col">
             <div class="card movie-card">
-              <img src="https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002252?referenceScheme=HeadOffice&allowPlaceHolder=true">
+              <img src="media/portadas/thunderbolts.jpg">
                <div class="card-body d-flex justify-content-center">
                 <a href="seleccionar_butacas.php?id=8&titulo=THUNDERBOLTS&poster=media%2Fportadas%2Fthunderbolts.jpg" class="btn btn-primary w-100">Comprar</a>
 
@@ -179,7 +179,7 @@ if (isset($_SESSION['usuario'])) {
 
           <div class="col">
             <div class="card movie-card">
-              <img src="https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002390?referenceScheme=HeadOffice&allowPlaceHolder=true" class="card-img-top" alt="...">
+              <img src="media/portadas/destino_final_6.png">
               <div class="card-body d-flex justify-content-center">
                 <a href="seleccionar_butacas.php?id=5&titulo=DESTINO%20FINAL%20LAZOS%20DE%20SANGRE&poster=media%2Fportadas%2Fdestino_final_6.png" class="btn btn-primary w-100">Comprar</a>
 
@@ -189,7 +189,7 @@ if (isset($_SESSION['usuario'])) {
 
       <div class="col">
         <div class="card movie-card">
-          <img src="https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002413?referenceScheme=HeadOffice&allowPlaceHolder=true" class="card-img-top" alt="...">
+          <img src="media/portadas/armagedon.jpg">
           <div class="card-body d-flex justify-content-center">
             <a href="seleccionar_butacas.php?id=1&titulo=ARMAGEDÓN%3A%20DIOSES%20DEL%20APOCALIPSIS&poster=media%2Fportadas%2Farmagedon.jpg" class="btn btn-primary w-100">Comprar</a>
 
